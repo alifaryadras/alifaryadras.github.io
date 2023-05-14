@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me:"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,6 @@ redirect_from:
 
 This is [my webpage](https://alifaryadras.github.io). I'm a student of Mathematics and Applications at Sharif University of Technology.
 
-A data-driven personal website
+
+Papers
 ======
-Hi.
-
-For more info
-------
-
-For more info
-===============================
