@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is [my webpage](https://alifaryadras.github.io). I'm a student of Mathematics and Applications at [Sharif University of Technology](https://en.sharif.edu/). My research interests are Economic Modelling, Multi-Objective Optimization, Monetary Economics, and Policy Evaluation.
-
+Here's my [CV](https://alifaryadras.github.io/_pages/CV_Ali_Faryadras.pdf).
 
 Papers
 ---
