@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is [my webpage](https://alifaryadras.github.io). I'm a student of mathematics and Applications at Sharif University of Technology.
+This is [my webpage](https://alifaryadras.github.io). I'm a student of Mathematics and Applications at Sharif University of Technology.
 
 A data-driven personal website
 ======
