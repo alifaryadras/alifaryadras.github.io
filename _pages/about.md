@@ -13,4 +13,8 @@ This is [my webpage](https://alifaryadras.github.io). I'm a student of Mathemati
 Here's my [CV](https://alifaryadras.github.io/_pages/CV_Ali_Faryadras.pdf).
 
 Papers
-==
+=
+
+Misc
+=
+I'm not a poet, but it seems that I have written a poem, so let's take a look at [it](https://allpoetry.com/Faryad).
