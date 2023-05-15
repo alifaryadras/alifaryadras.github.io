@@ -14,6 +14,7 @@ Here's my [CV](https://alifaryadras.github.io/_pages/CV_Ali_Faryadras.pdf).
 
 Papers
 -
+Energy security, world-system, and spiral dilemma of Jervis
 
 Misc
 -
