@@ -13,9 +13,9 @@ I'm a research assistant at the Sharif Policy Research Institute ([SPRI](https:/
 Here's my [CV](https://alifaryadras.github.io/_pages/CV_Ali_Faryadras.pdf).
 
 Papers
-=
+-
 Energy security, world-system, and spiral dilemma of Jervis.
 
 Misc
-=
+-
 I'm not a poet, but it seems that I have written a poem, so let's take a look at [it](https://allpoetry.com/Faryad).
