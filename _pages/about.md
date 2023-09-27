@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student of energy economics at [Shahid Beheshti University](https://en.sbu.ac.ir/). Previously, I was an undergrad in mathematics and applications at [Sharif University of Technology](https://en.sharif.edu/). I'm passionate about learning the multi-objective optimization, machine learning, energy economics, and monetary economics.
+I'm a research assistant at [Sharif Policy Research Institute](https://spri.sharif.ir/en/). Also, I'm currently a master's student of energy economics at [Shahid Beheshti University](https://en.sbu.ac.ir/). Previously, I was an undergrad in mathematics and applications at [Sharif University of Technology](https://en.sharif.edu/). I'm passionate about learning the multi-objective optimization, machine learning, energy economics, and monetary economics.
 
 Here's my [CV](https://alifaryadras.github.io/_pages/CV_Ali_Faryadras.pdf).
 
 Papers
 -
-Energy security, world-system, and spiral dilemma of Jervis.
+[Energy security, world system, and Jervis’ spiral security dilemma; Case of Russo-Ukraine War](https://jcountst.ut.ac.ir/article_93168.html?lang=en): Ali Faryadras and [Abbas Maleki](https://sharif.edu/~maleki/en.html).
 
 Misc
 -
