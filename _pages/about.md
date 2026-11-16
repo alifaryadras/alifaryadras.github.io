@@ -14,11 +14,15 @@ Here's my [CV](https://alifaryadras.github.io/_pages/cv.pdf).
 
 **Papers**
 
--Faryadras, Ali., Moridi Farimani, faazel., & [Maleki, Abbas](https://sharif.edu/~maleki/en.html). (2024). [Decoding Energy Security Trends: A Machine Learning-Driven Composite Indicator for Advancing Iran's Energy Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114699).
+-Amir Hossein Ghasemi, Hossein Sayyar, Ali Faryadras, & [Abbas Maleki](https://sharif.edu/~maleki/en.html). (2026). [Impacts of 2025 Tariff War on Global Energy Security Dynamics](https://doi.org/10.46557/001c.163971).
 
--Faryadras, Ali & [Maleki, Abbas](https://sharif.edu/~maleki/en.html). (2023). [Window to the Concept of Peak Oil and Policy Implications: Case of Iran](https://doi.org/10.22059/jppolicy.2023.95724).
+-Ali Faryadras, Fazel Moridi Farimani, & [Abbas Maleki](https://sharif.edu/~maleki/en.html). (2026). [Decoding Energy Security Trends: A Machine Learning-Driven Composite Indicator for Advancing Iran's Energy Sustainability](https://doi.org/10.1016/j.sftr.2026.101958).
 
--Faryadras, Ali & [Maleki, Abbas](https://sharif.edu/~maleki/en.html). (2023). [Energy security, world system, and Jervis’ spiral security dilemma; Case of Russo-Ukraine War](https://doi.org/10.22059/jcountst.2023.359034.1032).
+-Ali Faryadras, Saeed Tahmasebiashtiani, Mohammadreza Kasiri, Seyed Reza Mirnezami. (2025). [Transforming energy landscape: A scenario-based robust planning strategy for addressing energy imbalance in Iran by 2035](https://doi.org/10.1016/j.esr.2025.101817).
+
+-Ali Faryadras & [Abbas Maleki](https://sharif.edu/~maleki/en.html). (2023). [Window to the Concept of Peak Oil and Policy Implications: Case of Iran](https://doi.org/10.22059/jppolicy.2023.95724).
+
+-Ali Faryadras & [Abbas Maleki](https://sharif.edu/~maleki/en.html). (2023). [Energy security, world system, and Jervis’ spiral security dilemma; Case of Russo-Ukraine War](https://doi.org/10.22059/jcountst.2023.359034.1032).
 
 Misc
 -
