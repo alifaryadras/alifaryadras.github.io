@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a research assistant at [Sharif Policy Research Institute](https://spri.sharif.ir/en/)(SPRI). I have a MSc. in energy economics at [Shahid Beheshti University](https://en.sbu.ac.ir/). Previously, I was an undergrad in mathematics and applications at [Sharif University of Technology](https://en.sharif.edu/). I'm passionate about mathematical modelling for real-world problems in energy sector. My research interests in energy economics and statistical learning focus on developing composite indicator frameworks that integrate statistical methods to enhance the interpretability of intersubjective concepts such as energy security.
 
-Here's my [CV](https://alifaryadras.github.io/_pages/cv.pdf).
+Here's my full [CV](https://alifaryadras.github.io/_pages/cv.pdf).
 
 **Papers**
 
